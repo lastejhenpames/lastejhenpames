@@ -1,11 +1,13 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Stephen&fontSize=80&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Stephen%20Pames&fontSize=80&fontColor=fff)
 
 <div align="center">
   
 ### AI Automation Engineer & CS Student
-📍 Makati, Philippines | 🚀 Building AgentOps
+📍 Makati, Philippines | 🚀 Building AgentOps | 💼 Freelancing on Fiverr
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-dalanon-9757bb278/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=lastejhenpames&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
@@ -71,15 +73,19 @@ Also freelancing: n8n/Make workflows, AI chatbots, and custom agents for real cl
 
 <!-- Snake animation will appear after you set up the GitHub Action workflow -->
 
-## 🕐 WakaTime Coding Stats
+<!-- ## 🕐 WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<!-- Uncomment this section after you've accumulated some coding time with WakaTime -->
+
 
 ## 🎯 What I'm Into
 
 - **AI automation pipelines** — agent systems, workflow tools that solve operational problems
 - **Multi-agent orchestration** — coordinating AI teams that actually work together
+- **Web app design & development** — building full-stack products from scratch, obsessed with the product side as much as the tech
 - **Workflow automation** — n8n, Make, webhook-based systems
 - **Self-hosted infrastructure** — VPS deployments, Evolution API, Docker stacks
 
@@ -97,7 +103,7 @@ When I'm not coding: football (soccer), running, volleyball. Basically always mo
 
 ## 🎵 Spotify Playing
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=stephen567&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
 
 ---
 
