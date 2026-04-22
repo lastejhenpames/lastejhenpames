@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Stephen%20Pames&fontSize=80&fontColor=fff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Stephen&fontSize=80&fontColor=fff)
 
 <div align="center">
   
