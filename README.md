@@ -99,7 +99,7 @@ When I'm not coding: football (soccer), running, volleyball. Basically always mo
 
 ## 🎵 Spotify Playing
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=stephen567&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=stephen567&redirect=true)
 
 ---
 
