@@ -3,7 +3,7 @@
 <div align="center">
   
 ### AI Automation Engineer & CS Student
-📍 Makati, Philippines | 🚀 Building AgentOps | 💼 Freelancing on Fiverr
+📍 Makati, Philippines | 🚀 Building AgentOps
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
