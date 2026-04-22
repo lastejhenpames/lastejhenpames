@@ -5,9 +5,7 @@
 ### AI Automation Engineer & CS Student
 📍 Makati, Philippines | 🚀 Building AgentOps
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](YOUR_FIVERR_URL)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-dalanon-9757bb278/)
 ![Profile Views](https://komarev.com/ghpvc/?username=lastejhenpames&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
