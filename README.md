@@ -72,13 +72,10 @@ Also freelancing: n8n/Make workflows, AI chatbots, and custom agents for real cl
 
 <!-- Snake animation will appear after you set up the GitHub Action workflow -->
 
-<!-- ## 🕐 WakaTime Coding Stats
+## 🕐 WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-<!-- Uncomment this section after you've accumulated some coding time with WakaTime -->
-
 
 ## 🎯 What I'm Into
 
