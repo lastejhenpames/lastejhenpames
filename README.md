@@ -75,6 +75,15 @@ Also freelancing: n8n/Make workflows, AI chatbots, and custom agents for real cl
 ## 🕐 WakaTime Coding Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 16 April 2026 - To: 23 April 2026
+
+Total Time: 13 mins
+
+Markdown   13 mins               >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🎯 What I'm Into
