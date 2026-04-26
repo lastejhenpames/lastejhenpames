@@ -72,21 +72,6 @@ Also freelancing: n8n/Make workflows, AI chatbots, and custom agents for real cl
 
 <!-- Snake animation will appear after you set up the GitHub Action workflow -->
 
-## 🕐 WakaTime Coding Stats
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 18 April 2026 - To: 25 April 2026
-
-Total Time: 51 mins
-
-Markdown   38 mins               >>>>>>>>>>>>>>>>>>>------   74.36 %
-YAML       13 mins               >>>>>>-------------------   25.64 %
-```
-
-<!--END_SECTION:waka-->
-
 ## 🎯 What I'm Into
 
 - **AI automation pipelines** — agent systems, workflow tools that solve operational problems
