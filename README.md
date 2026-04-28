@@ -4,7 +4,7 @@
 
 TypeScript, Python, n8n/Make. AI agents, workflow automation, and SaaS products.
 
-[LinkedIn](https://www.linkedin.com/in/stephen-dalanon-9757bb278/) · [X](#)
+[LinkedIn](https://www.linkedin.com/in/stephen-dalanon-9757bb278/) · [X](https://x.com/10vkx)
 
 ---
 
