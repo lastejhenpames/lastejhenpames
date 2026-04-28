@@ -22,9 +22,9 @@ Trained model that classifies bacterial diseases in tomatoes, potatoes, and pepp
 
 `Python` `TensorFlow` `Keras` `Tkinter`
 
-### Lucid — AI-native document editor
+### Lucid — natural language document formatting
 
-Web-based collaborative doc editor with an AI sidebar for natural language formatting and editing. Built the full stack from scratch — real-time collaboration, AI integration, and document management.
+Doc editor where you just tell it how to format. Upload a template doc, say "make it look like this" — it matches font styles, sizes, colors, spacing, everything. Or just describe what you want: "make this heading bigger and blue" and it handles the formatting. No clicking through menus.
 
 `React` `Next.js` `TypeScript` `AI`
 
