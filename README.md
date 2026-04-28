@@ -40,7 +40,7 @@ Doc editor where you just tell it how to format. Upload a template doc, say "mak
 ## Work
 
 **CS Student — Lyceum of the Philippines University Manila**
-<br>Full-stack development, AI automation engineering, and building products that ship.
+<br>AI engineering, automation workflows, and building products that ship.
 
 ---
 
