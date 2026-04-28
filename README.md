@@ -10,17 +10,27 @@ TypeScript, Python, n8n/Make. AI agents, workflow automation, and SaaS products.
 
 ## Projects
 
-### [AgentOps](#) — control layer for AI agent teams
+### [justaskit](https://github.com/lastejhenpames/justaskit) — upload csv, ask question, get answer
 
-Multi-agent orchestration with budget caps, real-time alerts, approval gates, and per-client cost tracking. Think Kubernetes for containers, but for AI agents. $39/mo SaaS with 14-day free trial.
+Multi-agent system that turns natural language into pandas code, runs it safely, generates interactive charts, and explains results in plain English. Analysis agent + visualization agent + insight agent working together. 5-15 second response time.
 
-`TypeScript` `Next.js` `AI Agents` `SaaS`
+`Python` `FastAPI` `Next.js` `LangGraph` `Docker`
 
-### [Lucid](#) — AI-native document editor
+### [plant-disease-ai-detector](https://github.com/cyfrinn/plant-disease-ai-detector) — ML-powered plant disease detection
 
-Web-based collaborative doc editor (Google Docs-style) with an AI sidebar for natural language formatting and editing. Founding member waitlist open.
+Trained model that classifies bacterial diseases in tomatoes, potatoes, and peppers from leaf images. Simple Tkinter GUI for real-time predictions. Model trained on crop disease datasets.
 
-`React` `Next.js` `TypeScript` `AI`
+`Python` `TensorFlow` `Keras` `Tkinter`
+
+---
+
+## Currently Building
+
+**AgentOps** — control layer for AI agent teams
+<br>Multi-agent orchestration with budget caps, real-time alerts, approval gates, and per-client cost tracking. Think Kubernetes for containers, but for AI agents. Shipping soon at $39/mo.
+
+**Lucid** — AI-native document editor
+<br>Web-based collaborative doc editor with an AI sidebar for natural language formatting. Google Docs meets AI copilot.
 
 ---
 
