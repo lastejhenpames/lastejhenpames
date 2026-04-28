@@ -1,8 +1,8 @@
 # Stephen
 
-20 year old full-stack developer building AI automation tools that actually work.
+20 year old AI engineer building agents, automation workflows, and SaaS products that actually work.
 
-TypeScript, Python, n8n/Make. AI agents, workflow automation, and SaaS products.
+TypeScript, Python, LangGraph, n8n/Make.
 
 [LinkedIn](https://www.linkedin.com/in/stephen-dalanon-9757bb278/) · [X](https://x.com/10vkx)
 
