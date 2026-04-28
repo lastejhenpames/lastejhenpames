@@ -22,15 +22,18 @@ Trained model that classifies bacterial diseases in tomatoes, potatoes, and pepp
 
 `Python` `TensorFlow` `Keras` `Tkinter`
 
+### Lucid — AI-native document editor
+
+Web-based collaborative doc editor with an AI sidebar for natural language formatting and editing. Built the full stack from scratch — real-time collaboration, AI integration, and document management.
+
+`React` `Next.js` `TypeScript` `AI`
+
 ---
 
 ## Currently Building
 
 **AgentOps** — control layer for AI agent teams
 <br>Multi-agent orchestration with budget caps, real-time alerts, approval gates, and per-client cost tracking. Think Kubernetes for containers, but for AI agents. Shipping soon at $39/mo.
-
-**Lucid** — AI-native document editor
-<br>Web-based collaborative doc editor with an AI sidebar for natural language formatting. Google Docs meets AI copilot.
 
 ---
 
