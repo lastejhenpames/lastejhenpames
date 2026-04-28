@@ -4,7 +4,7 @@
 
 TypeScript, Python, n8n/Make. AI agents, workflow automation, and SaaS products.
 
-[LinkedIn](https://www.linkedin.com/in/stephen-dalanon-9757bb278/) · [X](#) · [Fiverr](https://www.fiverr.com/aslandial)
+[LinkedIn](https://www.linkedin.com/in/stephen-dalanon-9757bb278/) · [X](#)
 
 ---
 
@@ -38,9 +38,6 @@ Doc editor where you just tell it how to format. Upload a template doc, say "mak
 ---
 
 ## Work
-
-**AI Automation Specialist — Fiverr** *(freelance)*
-<br>n8n/Make workflow automation, custom AI chatbots, and AI agent development for real clients. Username: [Aslandial](https://www.fiverr.com/aslandial).
 
 **CS Student — Lyceum of the Philippines University Manila**
 <br>Full-stack development, AI automation engineering, and building products that ship.
